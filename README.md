@@ -60,4 +60,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# laravel-PostalSearch
+
+## TODO
+It should have a search box, once someone types in a postal (Only numbers) and presses the search button it should search for results and display then in a Model without reloading/redirecting.
+
