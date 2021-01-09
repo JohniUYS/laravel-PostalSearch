@@ -64,3 +64,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## TODO
 It should have a search box, once someone types in a postal (Only numbers) and presses the search button it should search for results and display then in a Model without reloading/redirecting.
 
+-Search Field - Ability to enter a Postal (should be numbers only)
+-Submit Button - Once Pressed Fetch all the values, and display the modal
+-Modal - Should be displayed with the appropriate values, The Modal is already in the code, but not yet populated with the right values
+
