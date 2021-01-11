@@ -5,7 +5,7 @@
             @error('body') <span class="text-danger">{{ $message }}</span> @enderror
         </div>
 
-        <button type="submit" id="btnSubmit" class="btn btn-primary">Search Postal</button>
+        <button type="submit" id="btnSubmit" class="btn btn-primary" wire:click="submit">Search Postal</button>
     </form>
 </div>
 <div class="alert alert-success" role="alert">
