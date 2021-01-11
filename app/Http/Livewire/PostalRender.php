@@ -23,7 +23,7 @@ class PostalRender extends Component
         }
         */
         //return redirect()->to('/');
-        return view('postal', ['postal' => $this->postal, 'primaryBeat' => $this->primaryBeat]);
+        //return view('postal', ['postal' => $this->postal, 'primaryBeat' => $this->primaryBeat]);
 
     }
 
